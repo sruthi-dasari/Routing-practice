@@ -1,0 +1,28 @@
+.about-container {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-img {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+.about-title {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #6d396b;
+}
+
+.about-para {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #555555;
+  text-align: center;
+}

@@ -1,0 +1,39 @@
+.nav-header {
+}
+
+.blog-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.branding-container {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 8px;
+}
+
+.brand-name {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+
+.nav-items-container {
+  list-style: none;
+  display: flex;
+  padding-left: 0px;
+}
+
+.nav-item {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #12022f;
+  margin: 6px;
+}
